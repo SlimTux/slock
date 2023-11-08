@@ -1,3 +1,15 @@
+/*
+//         .             .              .		  
+//         |             |              |           .	  
+// ,-. ,-. |-. ,-. . ,-. |  ,_, ,-. ,-. |-. ,-,-. . |- ,_, 
+// | | ,-| | | |   | |-' |   /  `-. |   | | | | | | |   /  
+// `-| `-^ ^-' '   ' `-' `' '"' `-' `-' ' ' ' ' ' ' `' '"' 
+//  ,|							  
+//  `'							  
+// GITHUB:https://github.com/gabrielzschmitz		  
+// INSTAGRAM:https://www.instagram.com/gabrielz.schmitz/   
+// DOTFILES:https://github.com/gabrielzschmitz/dotfiles/   
+*/
 /*	$OpenBSD: explicit_bzero.c,v 1.3 2014/06/21 02:34:26 matthew Exp $ */
 /*
  * Public domain.
