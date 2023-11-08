@@ -3,9 +3,9 @@ static const char *user  = "henrique";
 static const char *group = "nobody";
 
 static const char *colorname[NUMCOLS] = {
-	[INIT] = "#1d2021",       /* after initialization */
-	[INPUT] = "#ebdbb2",    /* during input */
-	[FAILED] = "#cc241d",   /* wrong password */
+	[INIT] =   "#190108",       /* after initialization */
+	[INPUT] =  "#56ed8f",    /* during input */
+	[FAILED] = "#e61910",   /* wrong password */
 };
 /*
  * Xresources preferences to load at startup
@@ -48,7 +48,7 @@ static XRectangle rectangles[9] = {
 /*Enable blur*/
 #define BLUR
 /*Set blur radius*/
-static const int blurRadius=5;
+static const int blurRadius=15;
 /*Enable Pixelation*/
 //#define PIXELATION
 /*Set pixelation radius*/
